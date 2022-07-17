@@ -16,8 +16,8 @@ Why is this site necessary?
   terms include or exclude certain other terms. Think of
   Issuer, Controller, Validator, Verifier, Proof, Root-of-trust, etc. and more in general
   Self-Sovereign Identity (SSI), Autonomic Identifiers (AID), KERI, OOBI, CESR, and ACDC.
-baseurl: "/acdc/docs" # the subpath of your site, e.g. /blog
-url: "https://henkvancann.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/docs" # the subpath of your site, e.g. /blog
+url: "https://henkvancann.github.io/acdc" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: henkvancann
 github_username:  henkvancann
 # theme: jekyll-theme-primer
