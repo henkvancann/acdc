@@ -1,0 +1,49 @@
+# Welcome to Jekyll!
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+
+title: Authentic Chained Data Container (ACDC) - Concept, terminology and glossary 
+email: info@blockchainbird.org
+description: >- # this means to ignore newlines until "baseurl:"
+Why is this site necessary? 
+  To be understood, takes that we (the KERI / ACDC team) try to understand you.
+  Who? For all those who are not programmers, nor cryptography experts, nor can read code.
+  For those interested in why this technology could be a break-through, and has the ability to
+  change (our view on) our digital presence, digital rights and digital autonomy. Discover your true digital twin.
+  How? Through language, concepts, terminology and glossaries. And offer the meaning and the criteria why 
+  terms include or exclude certain other terms. Think of
+  Issuer, Controller, Validator, Verifier, Proof, Root-of-trust, etc. and more in general
+  Self-Sovereign Identity (SSI), Autonomic Identifiers (AID), KERI, OOBI, CESR, and ACDC.
+baseurl: "/acdc/docs" # the subpath of your site, e.g. /blog
+url: "https://henkvancann.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: henkvancann
+github_username:  henkvancann
+# theme: jekyll-theme-primer
+remote_theme: pages-themes/modernist@v0.2.0
+
+# Build settings
+plugins:
+  - jekyll-remote-theme # add this line to the plugins list if you already have one
+  - jekyll-feed
+
+# Exclude from processing.
+# The following items will not be processed, by default.
+# Any item listed under the `exclude:` key here will be automatically added to
+# the internal "default list".
+#
+# Excluded items can be processed by explicitly listing the directories or
+# their entries' file path in the `include:` list.
+#
+# exclude:
+#   - .sass-cache/
+#   - .jekyll-cache/
+#   - gemfiles/
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules/
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
