@@ -15,7 +15,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   How? Through language, concepts, terminology and glossaries. And offer the meaning and the criteria why 
   terms include or exclude certain other terms. Think of
   Issuer, Controller, Validator, Verifier, Proof, Root-of-trust, etc. and more in general
-  Self-Sovereign Identity (SSI), Autonomic Identifiers (AID), KERI, OOBI, CESR, and ACDC.
+  Self-Sovereign Identity (SSI), Autonomic Identifiers (AID), `KERI`, `OOBI`, `CESR`, and `ACDC`.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://henkvancann.github.io/acdc" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: henkvancann
