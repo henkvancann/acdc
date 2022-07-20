@@ -2,7 +2,30 @@
     <div class="container">  
         <div class="row">
             <div class="col-lg-10 col-lg-offset-1 col-md-10 col-md-offset-1">             
-                
+
+
+
+              {% for term in site.terms %}
+              <!-- Blog Post -->
+              <h2>
+                  <a href="{{ term.url }}">{{ term.name }} ({{ term.short-name }})</a>
+              </h2>
+              <p class="lead">
+                  by {{ term.author }}
+              </p>
+              <p><span class="glyphicon glyphicon-time"></span> Posted on {{ term.date | date: "%B %d, %Y" }}</p>
+             <!--  {% if page.image %}
+              <img class="img-responsive" src="{{ post.image }}" alt="{{ post.title }}">
+              <hr>
+              {% endif %}
+              -->
+              {{ term.excerpt }}
+              <a class="btn btn-primary" href="{{ term.url }}">Read More <span class="glyphicon glyphicon-chevron-right"></span></a>
+
+              <hr>                                            
+          {% endfor %}                           
+
+<!--
             <ul>
                 {% for term in site.terms %}
                   <li>
@@ -12,12 +35,12 @@
                   </li>
                 {% endfor %}
               </ul>
+-->
                    
              </div>
         </div>       
     </div>
-</section>
-       
+  </section>
        
                    
         

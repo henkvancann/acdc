@@ -26,7 +26,7 @@ remote_theme: pages-themes/primer@v0.6.0
 collections:
   terms:
     output: true
-    
+
 defaults:
   - scope:
       path: ""
@@ -34,6 +34,14 @@ defaults:
     values:
       layout: "post"
       author: "Henk van Cann"
+  - scope:
+      path: ""
+      type: "terms"
+    values:
+      layout: "term"
+      author: "Henk van Cann"
+      date: 2022-07-15 12:00
+
 
 
 
