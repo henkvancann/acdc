@@ -1,3 +1,12 @@
+---
+layout: term
+short-name: provenance
+name:  Provenance
+categories: [ "KERI", "ACDC" ]
+author: Henk van Cann
+peer-review:
+---
+
 ## Defintion
 
 From Wikipedia ([Source](https://en.wikipedia.org/wiki/Provenance)):

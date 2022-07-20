@@ -1,3 +1,12 @@
+---
+layout: term
+short-name: CoC
+name:  "Chain of Custody"
+categories: [ "ACDC" ]
+author: Henk van Cann
+peer-review:
+---
+
 ## Definition
 
 From Wikipedia ([Source](https://en.wikipedia.org/wiki/Chain_of_custody)):

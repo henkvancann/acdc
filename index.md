@@ -2,9 +2,9 @@
 layout: default
 ---
 
-{{ site.title }}
-
 {{ site.description }}
+
+{% include gloss-terms.html %}
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 

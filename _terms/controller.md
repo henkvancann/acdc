@@ -1,3 +1,12 @@
+---
+layout: term
+short-name: controller
+name:  Controller
+categories: [ "KERI", "OOBI", "ACDC", "CESR"]
+author: Henk van Cann
+peer-review:
+---
+
 ## Definition
 
 The entity that has the ability to make changes to an _identity_, _cryptocurrency_ or _verifiable credential_. 

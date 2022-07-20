@@ -1,3 +1,12 @@
+---
+layout: term
+short-name: digest
+name:  Digest
+categories: [ "KERI", "ACDC" ]
+author: Henk van Cann
+peer-review:
+---
+
 ## verifiable cryptographic commitment
 
 From Wikipedia ([Source](https://en.wikipedia.org/wiki/Cryptographic_hash_function)):

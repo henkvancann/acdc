@@ -1,3 +1,12 @@
+---
+layout: term
+short-name: secure-attr
+name:  Secure Attribution
+categories: [ "KERI", "ACDC" ]
+author: Henk van Cann
+peer-review:
+---
+
 ## Definition
 
 In short: secure attribution is "whodunit?!" in cyberspace.

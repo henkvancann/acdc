@@ -1,3 +1,12 @@
+---
+layout: term
+short-name: ADC
+name:  "Authentic Data Container"
+categories: [ "ACDC" ]
+author: Henk van Cann
+peer-review:
+---
+
 ## Definition
 A mechanism for conveying data that allows the [authenticity](authenticity) of its content to be proved.
 

@@ -1,3 +1,12 @@
+---
+layout: term
+short-name: cred
+name:  Credential
+categories: [ "KERI", "ACDC" ]
+author: Henk van Cann
+peer-review:
+---
+
 ## Definition
 
 Evidence of authority, status, rights, entitlement to privileges, or the like.\

@@ -1,3 +1,12 @@
+---
+layout: term
+short-name: PoAuthShip
+name:  Proof of Authorship
+categories: [ "KERI", "ACDC" ]
+author: Henk van Cann
+peer-review:
+---
+
 ## Definition
 
 Proof that somebody or something has originally created certain content. It's about _data_. Whereas [proof-of-authority](proof-of-authority) is about _rights_.

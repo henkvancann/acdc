@@ -1,3 +1,12 @@
+---
+layout: term
+short-name: DAG
+name:  Directed Acyclic Graph
+categories: [ "ACDC" ]
+author: Henk van Cann
+peer-review:
+---
+
 ## Definition
 
 From Wikipedia ([source](https://en.wikipedia.org/wiki/Directed_acyclic_graph)):

@@ -1,3 +1,11 @@
+---
+layout: term
+short-name: OOBI
+name:  Out Of Band Introduction
+categories: [ "KERI", "OOBI", "ACDC" ]
+author: Henk van Cann
+peer-review:
+---
 ## Definition
 
 Out-of-band Introductions are discovery and validation of IP resources for [KERI](key-event-receipt-infrastructure-(KERI)) autonomic identifiers. **Discovery via URI, trust via KERI.**

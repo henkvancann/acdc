@@ -1,3 +1,12 @@
+---
+layout: term
+short-name: validator
+name:  Validator
+categories: [ "KERI", "ACDC" ]
+author: Henk van Cann
+peer-review:
+---
+
 ## Definition
 
 - Validator of any verifiable data structure
