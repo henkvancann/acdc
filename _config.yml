@@ -23,6 +23,10 @@ github_username:  henkvancann
 # theme: jekyll-theme-primer
 remote_theme: pages-themes/primer@v0.6.0
 
+collections:
+  terms:
+    output: true
+    
 defaults:
   - scope:
       path: ""
@@ -30,7 +34,9 @@ defaults:
     values:
       layout: "post"
       author: "Henk van Cann"
-      
+
+
+
 # Build settings
 plugins:
   - jekyll-remote-theme # add this line to the plugins list if you already have one
