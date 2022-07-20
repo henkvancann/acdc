@@ -1,7 +1,7 @@
 ---
 layout: term
 short-name: CESR
-name:  Composable Event Streaming Representation"
+name:  Composable Event Streaming Representation
 categories: [ "CESR", "KERI", "ACDC" ]
 date: 2022-07-15 12:00
 author: Henk van Cann
