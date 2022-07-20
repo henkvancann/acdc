@@ -3,12 +3,12 @@ layout: term
 short-name: SCI
 name:  Self-Certifying Identifier
 categories: [ "KERI", "ACDC" ]
+date: 2022-07-15 12:00
 author: Henk van Cann
 peer-review:
 ---
 
 ## Definition
-
 A Self-Certifying Identifier cryptographically binds an identifier to a public and private key pair. It is an identifier that can be proven to be the one and only identifier tied to a public key using cryptography alone.
 
 ## Signing

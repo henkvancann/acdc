@@ -3,12 +3,12 @@ layout: term
 short-name: PoAuthTy
 name:  Proof of Authority
 categories: [ "KERI", "ACDC" ]
+date: 2022-07-15 12:00
 author: Henk van Cann
 peer-review:
 ---
 
 ## Definition
-
 Proof that somebody or something has certain rights or permissions. It's about _data_. Whereas [proof of authorship](proof-of-authorship) is about _data_ and its original creator.\
 A proof-of-authority provides verifiable authorizations or permissions or rights or credentials.
 

@@ -3,12 +3,12 @@ layout: term
 short-name: SAID
 name:  Self-Adressing IDentifier
 categories: [ "KERI", "OOBI", "CESR", "ACDC" ]
+date: 2022-07-15 12:00
 author: Henk van Cann
 peer-review:
 ---
 
 ## Definition
-
 An identifier that is deterministically generated from and embedded in the content it identifies, making it and its data mutually tamper-evident.
 
 ### To generate a SAID

@@ -3,14 +3,13 @@ layout: term
 short-name: digest
 name:  Digest
 categories: [ "KERI", "ACDC" ]
+date: 2022-07-15 12:00
 author: Henk van Cann
 peer-review:
 ---
 
 ## verifiable cryptographic commitment
-
-From Wikipedia ([Source](https://en.wikipedia.org/wiki/Cryptographic_hash_function)):
-
+From Wikipedia ([Source](https://en.wikipedia.org/wiki/Cryptographic_hash_function)):\
 A **digest** is a cryptographic hash function (CHF) is a mathematical [algorithm](https://en.wikipedia.org/wiki/Algorithm) that [maps](https://en.wikipedia.org/wiki/Map_(mathematics)) data of an arbitrary size (often called the "message") to a [bit array](https://en.wikipedia.org/wiki/Bit_array) of a fixed size (the "[hash value](https://en.wikipedia.org/wiki/Hash_value)", "hash", or "message digest"). It is a [one-way function](https://en.wikipedia.org/wiki/One-way_function), that is, a function for which it is practically infeasible to invert or reverse the computation.[[1]](https://en.wikipedia.org/wiki/Message_digest#cite_note-MrThfd-1)
 
 ## Digest and ACDCs

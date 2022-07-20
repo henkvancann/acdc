@@ -3,11 +3,11 @@ layout: term
 short-name: OOBI
 name:  Out Of Band Introduction
 categories: [ "KERI", "OOBI", "ACDC" ]
+date: 2022-07-15 12:00
 author: Henk van Cann
 peer-review:
 ---
 ## Definition
-
 Out-of-band Introductions are discovery and validation of IP resources for [KERI](key-event-receipt-infrastructure-(KERI)) autonomic identifiers. **Discovery via URI, trust via KERI.**
 
 The simplest form of a KERI OOBI is a namespaced string, a tuple, a mapping, a structured message, or structured attachment that contains both a KERI AID and a URL. The OOBI associates the URL with the AID. In tuple form this abstractly:

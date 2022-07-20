@@ -3,12 +3,12 @@ layout: term
 short-name: KERI
 name:  Key Event Receipt Infrastructure"
 categories: [ "CESR", "KERI", "ACDC", "OOBI" ]
+date: 2022-07-15 12:00
 author: Henk van Cann
 peer-review:
 ---
 
 ## Definition
-
 A new approach to decentralized identifiers and decentralized key management that promises significant benefits for `SSI` (self-sovereign identity) and `ToIP` (Trust over IP) infrastructure.\
 (_@drummondreed_)
 

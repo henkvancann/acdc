@@ -3,6 +3,8 @@ layout: term
 short-name: ADC
 name:  "Authentic Data Container"
 categories: [ "ACDC" ]
+date: 2022-07-15 12:00
+date: 2022-07-15 12:00
 author: Henk van Cann
 peer-review:
 ---
