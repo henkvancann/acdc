@@ -1,0 +1,1 @@
+See [validator](validator), we consider `validator` and `verifier` being synonyms.
