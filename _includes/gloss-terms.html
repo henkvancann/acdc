@@ -1,0 +1,38 @@
+<section id="blog">
+    <div class="container">  
+        <div class="row">
+            <div class="col-lg-10 col-lg-offset-1 col-md-10 col-md-offset-1">             
+                  
+                     
+             {% for term in site.terms %}
+                <!-- Terms glossary -->
+                <h2>
+                    <a href="{{ term.url }}">{{ term.name }}</a>
+                </h2>
+                <p class="lead">
+                    by {{ term.author }}
+                </p>
+                {{ term.content }}
+                <a class="btn btn-primary" href="{{ term.url }}">Read More <span class="glyphicon glyphicon-chevron-right"></span></a>
+
+                <hr>                                            
+            {% endfor %}
+            
+            <ul>
+                {% for term in site.terms %}
+                  <li>
+                    <h2><a href="{{ author.url }}">{{ term.name }}</a></h2>
+                    <h3> ( {{ term.short-name }} ) </h3>
+                    <p>{{ term.content | markdownify }}</p>
+                  </li>
+                {% endfor %}
+              </ul>
+                   
+             </div>
+        </div>       
+    </div>
+</section>
+       
+       
+                   
+        
