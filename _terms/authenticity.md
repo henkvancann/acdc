@@ -1,11 +1,11 @@
 ---
 layout: term
-short-name: APC
+short-name: authenticity
 name:  "Authenticity"
 categories: [ "ACDC", "KERI", "OOBI" ]
 date: 2022-07-15 12:00
-author: Henk van Cann
-peer-review:
+curator: Henk van Cann
+status: 
 ---
 
 ## Definition

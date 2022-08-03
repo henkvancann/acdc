@@ -4,6 +4,8 @@
 # yourself editing this file very often, consider using Jekyll's data files
 # feature for the data you need to update frequently.
 
+safe: false # I'd like to allow symlinks
+
 title: Authentic Chained Data Container (ACDC) - Concept, terminology and glossary 
 email: info@blockchainbird.org
 description: >- # this means to ignore newlines until "baseurl:"

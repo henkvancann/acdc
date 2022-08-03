@@ -19,7 +19,8 @@
               <hr>
               {% endif %}
               -->
-              {{ term.excerpt }}
+              <!--{{ term.excerpt }} -->
+                {{ term.content | strip_html | truncatewords: 50 }} 
               <a class="btn btn-primary" href="{{ site.baseurl }}{{ term.url }}">Read More <span class="glyphicon glyphicon-chevron-right"></span></a>
 
               <hr>                                            
